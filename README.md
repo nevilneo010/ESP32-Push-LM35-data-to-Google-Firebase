@@ -1,4 +1,5 @@
-
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/9366e1da-a7a3-4bbc-a1eb-43188f407235" />
+<br/>
 ## **Setting up Firebase account**
 <br/>1. Go to [Firebase console](https://console.firebase.google.com/u/0/)
 <br/>2. Click on "Create a new Firebase Project"
